@@ -1,0 +1,3 @@
+export const GET_USER_DATA = 'GET_USER_DATA';
+export const SET_USER_DATA = 'SET_USER_DATA';
+export const TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjEsIm5hbWUiOiJzYXJhaCIsImFkbWluIjpmYWxzZSwiaWF0IjoxNjQxNjgxNDg5LCJleHAiOjE2NDE2ODIzODl9.5BJlY0iiCL3T_H1s0dgeX974rKBeeaEGjJLifS6npEM';
